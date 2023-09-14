@@ -40,14 +40,14 @@ body {
     margin-top: 8px;
 }
 
-.logo:hover {
-    /* width: 320px; */
+/* .logo:hover {
+    width: 320px;
     background-color: aqua;
-    /* border: 5px solid #fff;
+    border: 5px solid #fff;
     border-radius: 100px;
     padding-top: 15px; 
-    padding-left: 105px;  */ 
-}
+    padding-left: 105px;   
+} */
 
 .navigation-list {
     display: flex;
